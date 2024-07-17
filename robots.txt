@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lerdivery.github.io/sitemap
+Sitemap: https://lerdivery.github.io/app/sitemap
+Sitemap: https://lerdivery.github.io/assets/sitemap
+Sitemap: https://lerdivery.github.io/css/sitemap
+Sitemap: https://lerdivery.github.io/includes/sitemap
+Sitemap: https://lerdivery.github.io/item/sitemap
+Sitemap: https://lerdivery.github.io/src/sitemap
